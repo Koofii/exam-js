@@ -1,0 +1,19 @@
+{
+  "orders": [
+    {
+      "productId": "6",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "productId": "8",
+      "quantity": 2,
+      "id": 2
+    },
+    {
+      "productId": "8",
+      "quantity": 1,
+      "id": 3
+    }
+  ]
+}
